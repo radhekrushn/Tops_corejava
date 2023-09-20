@@ -6,8 +6,38 @@ public class Recognize_Grade {
 
 
 	public static void main(String[] args) {
-		System.out.println("\n<----you can display your grade according to your marks");
+		System.out.println("\n<----you can display your grade according to your marks--->");
 		Scanner sc = new Scanner(System.in);
+	
+		  
+		    
+	/*	int marks;
+		
+		
+		System.out.println("Please, Enter your marks :");
+		marks = sc.nextInt();
+		
+		if(marks < 100 && marks >= 90)
+		{
+			System.out.println("A Grade");
+		}
+		else if(marks < 90 && marks >= 70)
+		{
+			System.out.println("B Grade");
+		}
+		else if(marks < 70 && marks >= 50)
+		{
+			System.out.println("C Grade");
+		}
+		else if(marks < 50 && marks >= 35)
+		{
+			System.out.println("D Grade");
+		}
+		else if(marks < 35 && marks >= 0)
+		{
+			System.out.println("Fail!!!");
+		}
+		*/
 		
 		int Eco, BA, Statistics, Account, Total;
 		float percentage;
@@ -47,8 +77,25 @@ public class Recognize_Grade {
 			System.out.println("Fail!!!");
 		}
 	
-		  
-		    
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
